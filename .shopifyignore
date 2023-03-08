@@ -1,0 +1,6 @@
+node_modules
+src
+package.json
+yarn.lock
+tailwind.config.js
+postcss.config.js
